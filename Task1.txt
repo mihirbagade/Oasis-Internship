@@ -1,0 +1,63 @@
+<html>
+
+    <h1 align="center"> 
+    <img src="C:\Users\omkar\Pictures\Images\Superior-Room-Ivy-park-resort.jpg" style="height:140;width:400;">
+    <img src="C:\Users\omkar\Pictures\Images\hdrImage034_3.jpg" style="height:140;width:400;">
+    <img src="C:\Users\omkar\Pictures\Images\Swimming-Pool-Ivy-Park-Resort-Panchgani.jpg" style="height:140;width:400;"></h1>
+    <head><title>IVY PARK RESORT</title>
+    <style>
+    .main {
+    position:relative;
+    }
+    .name{
+    position:absolute;
+    top:70%; 
+    left:20%;
+    }
+    .name h1{
+    font-size:85;
+    letter-spacing:10px; 
+    color:white;
+    }
+    .menu{
+    position:absolute;
+    top:130;
+    left:30;
+    
+    }
+    .menu li{
+    margin-left:120px;
+    float:left;
+    
+    }
+    .copy{
+    position:absolute;
+    top:105%;
+    left:87%;
+    }
+    .copy ni{
+    color:white;
+    }
+    </style>
+    
+    </head>
+    <body>
+    <div class="main"> <img src="C:\Users\omkar\Pictures\Images\6472925_19012615110071714351.jpg" 
+    style="height:500px;width:1600;">
+    <div class="name"><h1> IVY PARK RESORT </h1></div>
+    </div>
+    <div class="menu">
+    <ol>
+    <h3>
+    <li><a href="RESTAURANT.html">RESTAURANT</li>
+    <li><a href="Accomodation.html">ACCOMODATION</li>
+    <li><a href="Facilities.html">FACILITIES</li>
+    <li><a href="aboutus.html">ABOUT US</li>
+    <li><a href="contactus.html">CONTACT US</li>
+    </h3>
+    </ol>
+    </div>
+    <div class="copy"><p>&copy;Omkar Shankar Bawalekar</p></div>
+    </div>
+    </body>
+    </html>
